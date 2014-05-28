@@ -1,0 +1,28 @@
+c:\users\yasin\documents\visual studio 2012\Projects\PROTEKNO\PROTEKNO\bin\Debug\PROTEKNO.exe.config
+c:\users\yasin\documents\visual studio 2012\Projects\PROTEKNO\PROTEKNO\bin\Debug\PROTEKNO.exe
+c:\users\yasin\documents\visual studio 2012\Projects\PROTEKNO\PROTEKNO\bin\Debug\PROTEKNO.pdb
+c:\users\yasin\documents\visual studio 2012\Projects\PROTEKNO\PROTEKNO\obj\Debug\PROTEKNO.csprojResolveAssemblyReference.cache
+c:\users\yasin\documents\visual studio 2012\Projects\PROTEKNO\PROTEKNO\obj\Debug\PROTEKNO.Properties.Resources.resources
+c:\users\yasin\documents\visual studio 2012\Projects\PROTEKNO\PROTEKNO\obj\Debug\PROTEKNO.csproj.GenerateResource.Cache
+c:\users\yasin\documents\visual studio 2012\Projects\PROTEKNO\PROTEKNO\obj\Debug\PROTEKNO.exe
+c:\users\yasin\documents\visual studio 2012\Projects\PROTEKNO\PROTEKNO\obj\Debug\PROTEKNO.pdb
+C:\Users\yasin\Documents\Visual Studio 2012\Projects\PROTEKNO\PROTEKNO\obj\Debug\PROTEKNO.Form_giris.resources
+C:\Users\yasin\Documents\Visual Studio 2012\Projects\PROTEKNO\PROTEKNO\obj\Debug\PROTEKNO.Form_stok.resources
+C:\Users\yasin\Documents\Visual Studio 2012\Projects\PROTEKNO\PROTEKNO\obj\Debug\PROTEKNO.Form_stok_ekle.resources
+C:\Users\yasin\Documents\Visual Studio 2012\Projects\PROTEKNO\PROTEKNO\obj\Debug\PROTEKNO.Form_stok_duzenle.resources
+C:\Users\yasin\Documents\Visual Studio 2012\Projects\PROTEKNO\PROTEKNO\obj\Debug\PROTEKNO.Form_stok_mail.resources
+C:\Users\yasin\Documents\Visual Studio 2012\Projects\PROTEKNO\PROTEKNO\obj\Debug\PROTEKNO.Form_stok_sil.resources
+F:\CODES\C#\PROTEKNO\PROTEKNO\bin\Debug\PROTEKNO.exe.config
+F:\CODES\C#\PROTEKNO\PROTEKNO\obj\Debug\PROTEKNO.exe
+F:\CODES\C#\PROTEKNO\PROTEKNO\obj\Debug\PROTEKNO.pdb
+F:\CODES\C#\PROTEKNO\PROTEKNO\bin\Debug\PROTEKNO.exe
+F:\CODES\C#\PROTEKNO\PROTEKNO\bin\Debug\PROTEKNO.pdb
+F:\CODES\C#\PROTEKNO\PROTEKNO\obj\Debug\PROTEKNO.csprojResolveAssemblyReference.cache
+F:\CODES\C#\PROTEKNO\PROTEKNO\obj\Debug\PROTEKNO.Form_giris.resources
+F:\CODES\C#\PROTEKNO\PROTEKNO\obj\Debug\PROTEKNO.Form_stok.resources
+F:\CODES\C#\PROTEKNO\PROTEKNO\obj\Debug\PROTEKNO.Form_stok_ekle.resources
+F:\CODES\C#\PROTEKNO\PROTEKNO\obj\Debug\PROTEKNO.Form_stok_sil.resources
+F:\CODES\C#\PROTEKNO\PROTEKNO\obj\Debug\PROTEKNO.Form_stok_duzenle.resources
+F:\CODES\C#\PROTEKNO\PROTEKNO\obj\Debug\PROTEKNO.Form_stok_mail.resources
+F:\CODES\C#\PROTEKNO\PROTEKNO\obj\Debug\PROTEKNO.Properties.Resources.resources
+F:\CODES\C#\PROTEKNO\PROTEKNO\obj\Debug\PROTEKNO.csproj.GenerateResource.Cache
